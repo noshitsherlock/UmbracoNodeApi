@@ -13,4 +13,5 @@ Download the entire repo and fire up the solution and start querying.
 The database is included so if you wan't to log in to umbraco use the following credentials.
 
 Username: admin@example.com
+
 Password: umbraco
