@@ -154,3 +154,4 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+Web/Web/App_Data/Logs/UmbracoTraceLog.txt
