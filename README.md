@@ -10,7 +10,7 @@ Download the entire repo and fire up the solution and start querying.
 
 `http://localhost:64826/umbraco/api/nodeapi/getnodebyurl?url=/`
 
-The database is included, if you wan't to log in to umbraco use the following credentials.
+The database is included so if you wan't to log in to umbraco use the following credentials.
 
 Username: admin@example.com
 Password: umbraco
