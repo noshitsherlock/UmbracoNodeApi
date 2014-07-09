@@ -1,8 +1,9 @@
 ***
 # UmbracoNodeApi
 ***
+UmbracoApiController that you can use to query umbraco.
 
-Download the entire repo and fire up the solution and start querying.
+Download the entire repo and fire up the solution and start querying. This repo can be used together with [umbraco-angular](https://github.com/noshitsherlock/umbraco-angular) as a source for its data.
 
 **Example**
 
